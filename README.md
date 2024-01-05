@@ -2,4 +2,4 @@
 
 A simple website using the two most dominant computer languages -- HTML and CSS.
 
-<a href="#">Live Demo</a>
+<a href="https://dyarawilliams.github.io/styles-conference/">Live Demo</a>
